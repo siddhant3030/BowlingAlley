@@ -1,0 +1,3 @@
+class BowlingAlleyException < StandardError
+    
+end
